@@ -1,5 +1,13 @@
-#goods index
- surpliers datas store in elasticsearch index server.
-##surplier basic infomation
-##surplier Product Categories infomation
-##surplier company profile and contacts
+#供应商数据存储选择
+ 供应商数据存储使用elasticsearch索引，一次存储多次查询。定期更新。
+#供应商数据爬取
+##爬取供应商基本信息
+##爬取供应商供应供应产品类目
+##爬取供应商公司信息
+#功能模块
+##供应商搜索（多条件查询过滤）
+##推荐供应商匹配客户订单
+##定制生产订单生成
+##生产订单工作流
+##物流运输与清关出口
+##收款与交易结束
